@@ -12,7 +12,7 @@ Find the sum of all the positive integers which cannot be written as the sum of 
 
 ### Answer
 
-**Current algoritm:**
+**Current algorithm:**
 
 - Iterate to max limit (28123)
 - if iterated number is abundant add it to list.
